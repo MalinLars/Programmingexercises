@@ -26,6 +26,7 @@ hs_err_pid*
 .metadata
 .project
 .settings
+.classpath
 
 # Unrelevant project directories
 # /Lektion4/bin
